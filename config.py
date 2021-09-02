@@ -1,6 +1,6 @@
 
 
-dataset_dir = "/input/WA_Fn-UseC_-Telco-Customer-Churn.csv"
+dataset_dir = ".../input/WA_Fn-UseC_-Telco-Customer-Churn.csv"
 category_columns = ["Contract", "gender", "Partner",	"Dependents", "PhoneService", "MultipleLines",
                     "InternetService", "OnlineSecurity","OnlineBackup", "DeviceProtection",	"TotalCharges",
                     "TechSupport",	"StreamingTV", "StreamingMovies" , "PaperlessBilling", "PaymentMethod", "Churn"]
